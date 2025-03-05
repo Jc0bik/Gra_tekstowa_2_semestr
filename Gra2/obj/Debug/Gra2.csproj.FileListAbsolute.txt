@@ -1,0 +1,7 @@
+C:\Users\kubas\source\repos\Gra2\Gra2\bin\Debug\Gra2.exe.config
+C:\Users\kubas\source\repos\Gra2\Gra2\bin\Debug\Gra2.exe
+C:\Users\kubas\source\repos\Gra2\Gra2\bin\Debug\Gra2.pdb
+C:\Users\kubas\source\repos\Gra2\Gra2\obj\Debug\Gra2.csproj.AssemblyReference.cache
+C:\Users\kubas\source\repos\Gra2\Gra2\obj\Debug\Gra2.csproj.CoreCompileInputs.cache
+C:\Users\kubas\source\repos\Gra2\Gra2\obj\Debug\Gra2.exe
+C:\Users\kubas\source\repos\Gra2\Gra2\obj\Debug\Gra2.pdb
